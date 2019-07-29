@@ -2,7 +2,10 @@
 .templete{width:960px;margin-bottom:0 auto;}
 .clear{overflow:hidden;}
 
-
+#pos{
+position:fixed;	
+	
+}
 #table{
 
   background-color: #6AFB8F;
