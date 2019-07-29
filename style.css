@@ -2,9 +2,9 @@
 .templete{width:960px;margin-bottom:0 auto;}
 .clear{overflow:hidden;}
 
-#pos{
-position:fixed;	
-	
+.pos{
+position: fixed;	
+weight:100%;	
 }
 #table{
 
