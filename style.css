@@ -3,7 +3,7 @@
 .clear{overflow:hidden;}
 
 .pos{
-position: fixed;
+position-pop: fixed;
 	/*bottom:0px;*/
 		
 width:100%;	
